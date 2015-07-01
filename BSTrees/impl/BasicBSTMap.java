@@ -8,7 +8,7 @@ import adt.Stack;
 import impl.ListStack;
 
 /**
- * BasicBSTOMap
+ * BasicBSTMap
  * 
  * My quick "let's see how well I can pound it out" version
  * of a BST implementation of an ordered map. The main difference
