@@ -1,6 +1,6 @@
 BSTree Project:
 
-Provided are 3 different implementations of binary search trees (which I did not write) in the 'impl' package.
+Provided are 3 different implementations of binary search trees (written by my professor Thomas VanDrunen) in the 'impl' package.
 
 In the 'test' package is ThreeTreesTest.java, the JUnit test file I wrote to test the performances of these trees. The tests that are currently configured to run in this file are meant to show how the performance (time) of the trees change as 'put' and 'get' operations are taken from an increasingly large range.
 In other words, this is meant to test how the amount of redundant data operations affects the performance of each of these trees.
